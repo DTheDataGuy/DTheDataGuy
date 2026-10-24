@@ -10,7 +10,9 @@ Formerly an AWS Analytics and AI/ML specialist · MS, Data Engineering · PMP ·
 
 ### Start here
 
-**[the-data-guys-portfolio](https://github.com/DTheDataGuy/the-data-guys-portfolio)**: 26 projects across 12 client organizations and about 71,600 lines of authored code, organized by client.
+**[the-data-guys-portfolio](https://github.com/DTheDataGuy/the-data-guys-portfolio)**: 26 projects across 12 client organizations and about 71,600 lines of authored code, organized by client. Browse it as a website at **[dthedataguy.github.io/the-data-guys-portfolio](https://dthedataguy.github.io/the-data-guys-portfolio/)**.
+
+**[rowgate](https://github.com/DTheDataGuy/rowgate)**: my open-source data contracts and quality gates for Polars. It quarantines bad rows with the reason for each one, blocks bad batches and writes reports people can read. `pip install git+https://github.com/DTheDataGuy/rowgate@v0.1.0`
 
 | Project | What it shows |
 | --- | --- |
