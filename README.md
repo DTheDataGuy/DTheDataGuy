@@ -23,7 +23,7 @@ I build data systems people can trust and act on: pipelines that quarantine bad 
 
 ### Start here
 
-| | |
+| Repository | Why it matters |
 |---|---|
 | **[rowgate](https://github.com/DTheDataGuy/rowgate)** <br> Open source · MIT · Python | Data contracts and quality gates for Polars. Quarantines bad rows with the reason for each one, blocks bad batches and writes reports people can read. One dependency. |
 | **[the-data-guys-portfolio](https://github.com/DTheDataGuy/the-data-guys-portfolio)** <br> 16 projects · 10 clients | About 33,000 lines of authored code organized by client, with 5 live demos. [Browse it as a website](https://dthedataguy.github.io/the-data-guys-portfolio/). |
