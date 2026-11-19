@@ -28,7 +28,7 @@ I build data systems people can trust and act on: pipelines that quarantine bad 
 | **[rowgate](https://github.com/DTheDataGuy/rowgate)** <br> Open source · MIT · [PyPI](https://pypi.org/project/rowgate/) | Data contracts and quality gates for Polars. Quarantines bad rows with the reason for each one, blocks bad batches and writes reports people can read. One dependency. |
 | **[the-data-guys-portfolio](https://github.com/DTheDataGuy/the-data-guys-portfolio)** <br> 16 projects · 10 clients | About 33,000 lines of authored code organized by client, with 5 live demos. [Browse it as a website](https://dthedataguy.github.io/the-data-guys-portfolio/). |
 
-### Use my code in 60 seconds
+### Try rowgate
 
 ```bash
 pip install rowgate
@@ -44,7 +44,7 @@ contract = rg.Contract(columns={
 result = contract.split(df)   # result.valid loads, result.quarantine says why each row didn't
 ```
 
-Want to build on it? [Fork rowgate](https://github.com/DTheDataGuy/rowgate/fork), read [CONTRIBUTING](https://github.com/DTheDataGuy/rowgate/blob/main/CONTRIBUTING.md) or start a [discussion](https://github.com/DTheDataGuy/rowgate/discussions). Stars help other data engineers find it.
+If you want to build on it, [fork it](https://github.com/DTheDataGuy/rowgate/fork), check [CONTRIBUTING](https://github.com/DTheDataGuy/rowgate/blob/main/CONTRIBUTING.md), or open a [discussion](https://github.com/DTheDataGuy/rowgate/discussions). I read all of them.
 
 ### Featured work
 
